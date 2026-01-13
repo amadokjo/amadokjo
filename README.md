@@ -8,7 +8,7 @@
   <a href="mailto:codetheworldof3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+  <a href="https://www.linkedin.com/in/jonbir-bangza-7659302a7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
