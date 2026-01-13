@@ -39,9 +39,9 @@
 
 | Project | Tech Stack |
 | :--- | :--- |
-| **Local RAG Chatbot** | Llama 3.2, Qdrant, Docker, LangChain |
-| **Modern Market Predictor** | LSTM, FinBERT, React, Flask |
-| **Vehicle Detection System** | YOLOv8, OpenCV, Streamlit |
+| **[Local RAG Chatbot](https://github.com/amadokjo/my-rag-chatbot)** | Llama 3.2, Qdrant, Docker, LangChain |
+| **[Modern Market Predictor](https://github.com/amadokjo/Modern-Market-Predictor)** | LSTM, FinBERT, React, Flask |
+| **[Vehicle Detection System](https://github.com/amadokjo/vehicle-detection-streamlit)** | YOLOv8, OpenCV, Streamlit |
 
 ---
 
