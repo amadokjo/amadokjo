@@ -25,7 +25,9 @@
 </div>
 
 ---
-![r_penguin](https://github.com/user-attachments/assets/4267c0be-ec52-42a4-b441-0d88ecdee5b6)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4267c0be-ec52-42a4-b441-0d88ecdee5b6" width="200" alt="Penguin Coding" />
+</div>
 
 
 
